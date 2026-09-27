@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td align="left">
-        <p><strong>Nguyen Tien Dan</strong> • <strong>AI Engineer</strong></p>
+        <h2><strong>Nguyen Tien Dan</strong> • <strong>AI Engineer</strong></h2>
         <p>4th-year CS Student @ PTIT</p>
         <h3>Main Focus:</h3>
         <p>
