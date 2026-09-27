@@ -6,7 +6,7 @@
     <tr>
       <td align="left">
         <h2><strong>Nguyen Tien Dan</strong> • <strong>AI Engineer</strong></h2>
-        <p>4th-year CS Student @ PTIT</p>
+        <p> 4th-year CS Student @ PTIT &nbsp;•&nbsp; <a href="https://drive.google.com/file/d/1TMd-AV9c4pU2_BK8bzBcviDdvsWdiIyU/view?usp=sharing" style="text-decoration: none;">📄 CV</a> </p>
         <h3>Main Focus:</h3>
         <p>
           &emsp;👾 <strong>Computer Vision:</strong> Object Detection, Image Classification<br/>
